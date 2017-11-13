@@ -16,6 +16,7 @@ If you are new to the domain like myself, you would wonder about the best values
 ![1e-3 reguralizer](./runs/1510524028.1555169/um_000011.png)
 
 So for out of curiosity, I ran my network to see what would happen if I removed the regularizer, to see if my regularizer is actually doing something. And yes indeed, it is definitely improving the quality of our training. Here is how my images looked like for a run without any regularization:
+
 ![No reguralizer](./runs/1510528417.6566017/um_000011.png)
 
 Then after that I realized that I have two problems:
@@ -36,7 +37,7 @@ Here are some example images after training:
 
 ![trained image](./runs/1510539886.586133/um_000018.png)
 
-![trained image](./runs/1510539886.586133/um_000076.png)
+![trained image](./runs/1510539886.586133/um_000071.png)
 
 ### Seeding and randomization
 One of the things I learnt from discussions on the forums and reading online is how to deal with some noise generated.
