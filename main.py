@@ -60,7 +60,8 @@ def layers(vgg_layer3_out, vgg_layer4_out, vgg_layer7_out, num_classes):
     # This is where we build the layers of our network
     # We also need to preserve our spatial information
     
-    # Thanks to John chen , really suffered in this part and was able to understand it more
+    # Thanks to John chen , really suffered in this part and was able to understand 
+    # it more from how he structured things as well by listing logits first 
 
     # First let's get all the logits to make sure everything shape wise is correct:
     layer7_logits = tf.layers.conv2d(
