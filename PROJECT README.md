@@ -58,4 +58,4 @@ There are a lot of methods to normalize, skew and deal with noise. I found that 
 
 Jeremy Shanon: https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-12-semantic-segmentation-133281f56f28
 
-John Chen and and Nikolay Falaleev for teaching me how to better structure my code
+John Chen (https://github.com/diyjac) and and Nikolay Falaleev(Nikolay Falaleev) for teaching me how to better structure my code and randomize values
